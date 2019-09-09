@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xaejemeich.brainfinances.com/sitemap.xml
